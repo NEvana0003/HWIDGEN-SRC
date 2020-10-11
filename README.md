@@ -1,4 +1,4 @@
-# HWIDGEN Souce Code
+# HWIDGEN Souce Code [NEVANA'S REUPLOAD]
 
 This project provides the source code of the popular HWIDGEN Windows activation "tool" which basically is only an AutoHotKey script compiled into an .exe binary. 
 
