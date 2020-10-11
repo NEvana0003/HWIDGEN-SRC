@@ -1,0 +1,133 @@
+System check:
+Description: Windows(R) Operating System, RETAIL channel
+BuildLabEx: 18362.900
+Architecture: x64
+PartialKey: 3V66T
+Edition: Professional
+Status Notification
+
+Starting activation at 11 Jul 2020 15:48:38...
+
+Installing key VK7JG-NPHTM-C97JM-9MPGT-3V66T...
+Installed product key VK7JG-NPHTM-C97JM-9MPGT-3V66T successfully.
+
+Generating ticket for HWID
+
+Applying GenuineTicket.xml...
+
+Done.
+Converted license Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe and stored at C:\ProgramData\Microsoft\Windows\ClipSvc\Install\Migration\23b35fcd-59cb-49a6-8968-21c3db7f1ea3.xml.
+Successfully converted 1 licenses from genuine authorization tickets on disk.
+Done.
+
+Ticket apply successful.
+
+WU is enabled: MANUAL Functional
+
+ClipSVC is enabled: MANUAL Functional
+
+wlidsvc is enabled: MANUAL Functional
+
+sppsvc is enabled: AUTO Functional
+
+SYSTEM FOUND BEING: offline
+Setting Adapter to 'Enabled'
+
+Activating...
+Activating Windows(R), Professional edition (4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c) ...
+Error: 0x80072EE7 On a computer running Microsoft Windows non-core edition, run 'slui.exe 0x2a 0x80072EE7' to display the error text.
+
+Disabling Internet Connection.
+
+SYSTEM FOUND BEING: offline
+Setting Adapter to 'Disabled'
+
+Failed to activate Professional. License status: Notification
+
+
+System check:
+Description: Windows(R) Operating System, RETAIL channel
+BuildLabEx: 18362.900
+Architecture: x64
+PartialKey: 3V66T
+Edition: Professional
+Status Notification
+
+Starting activation at 11 Jul 2020 15:49:21...
+
+Installing key VK7JG-NPHTM-C97JM-9MPGT-3V66T...
+Installed product key VK7JG-NPHTM-C97JM-9MPGT-3V66T successfully.
+
+Generating ticket for HWID
+
+Applying GenuineTicket.xml...
+
+Done.
+Converted license Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe and stored at C:\ProgramData\Microsoft\Windows\ClipSvc\Install\Migration\2d8836c4-fd78-4839-a628-3b2f34fa0bfd.xml.
+Successfully converted 1 licenses from genuine authorization tickets on disk.
+Done.
+
+Ticket apply successful.
+
+WU is enabled: MANUAL Functional
+
+ClipSVC is enabled: MANUAL Functional
+
+wlidsvc is enabled: MANUAL Functional
+
+sppsvc is enabled: AUTO Functional
+
+SYSTEM FOUND BEING: offline
+Setting Adapter to 'Enabled'
+
+Activating...
+Activating Windows(R), Professional edition (4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c) ...
+Error: 0x80072EE7 On a computer running Microsoft Windows non-core edition, run 'slui.exe 0x2a 0x80072EE7' to display the error text.
+
+Disabling Internet Connection.
+
+SYSTEM FOUND BEING: offline
+Setting Adapter to 'Disabled'
+
+Failed to activate Professional. License status: Notification
+
+
+System check:
+Description: Windows(R) Operating System, RETAIL channel
+BuildLabEx: 18362.900
+Architecture: x64
+PartialKey: 3V66T
+Edition: Professional
+Status Licensed
+
+Starting activation at 11 Jul 2020 15:53:43...
+
+Installing key VK7JG-NPHTM-C97JM-9MPGT-3V66T...
+Installed product key VK7JG-NPHTM-C97JM-9MPGT-3V66T successfully.
+
+Generating ticket for HWID
+
+Applying GenuineTicket.xml...
+
+Done.
+Converted license Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe and stored at C:\ProgramData\Microsoft\Windows\ClipSvc\Install\Migration\6d89b316-ce4e-42a4-8ee7-9f2b9d4ed92b.xml.
+Successfully converted 1 licenses from genuine authorization tickets on disk.
+Done.
+
+Ticket apply successful.
+
+WU is enabled: MANUAL Functional
+
+ClipSVC is enabled: MANUAL Functional
+
+wlidsvc is enabled: MANUAL Functional
+
+sppsvc is enabled: AUTO Functional
+
+Activating...
+Activating Windows(R), Professional edition (4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c) ...
+Product activated successfully.
+
+Successfully activated Professional!
+
+
